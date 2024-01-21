@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is my journey to learning new stuff!!!
 <!--
 **edua11368/edua11368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
